@@ -1,7 +1,7 @@
-# EDIS Privacy Policy
+# [Edis](http://edis.io) Privacy Policy
 Last updated on 4-14-2017
 
-We (“EDIS,” “we,” or “us”) know that privacy is very important to our online visitors (“Website Visitors”), our application users (“Users”), our schools and districts (“Clients”) and to students whose data we might use in behalf of our clients (“Students”). EDIS provides a data platform that collects data from other applications and services and turns it into data insights for district users to access. At all times, Clients decide which data is integrated into EDIS. This privacy policy applies to both the EDIS platform (“Platform”) as well as the EDIS Website (“Website”) and covers how we go about protecting your data.
+We (“Edis,” “we,” or “us”) know that privacy is very important to our online visitors (“Website Visitors”), our application users (“Users”), our schools and districts (“Clients”) and to students whose data we might use in behalf of our clients (“Students”). [Edis](http://edis.io) provides a data platform that collects data from other applications and services and turns it into data insights for district users to access. At all times, Clients decide which data is integrated into [Edis](http://edis.io). This privacy policy applies to both the [Edis](http://edis.io) platform (“Platform”) as well as the [Edis](http://edis.io) Website (“Website”) and covers how we go about protecting your data.
 
 Below are the sections in this document:
 1.	[Collection](#collection)
@@ -19,13 +19,13 @@ We collect the following types of information:
 
 **Client Information:** We collection information about our clients to operate, maintain and upgrade features in our platform, analyze our offerings, and to communicate with our clients. This information includes names, email addresses, phone numbers, content of messages, and account information related to other applications our clients use.
 
-**Student Data:** EDIS has access to personally identifiable information about students (“Student Data”) in order to successfully operate. Student Data is considered confidential and we do not use for any purpose other than to provide our services to our clients. If you have any questions about how we use student data please email us at contact@edis.io or reach out to our clients.
+**Student Data:** [Edis](http://edis.io) has access to personally identifiable information about students (“Student Data”) in order to successfully operate. Student Data is considered confidential and we do not use for any purpose other than to provide our services to our clients. If you have any questions about how we use student data please email us at contact@edis.io or reach out to our clients.
 
 **Information collected through technology:** Our systems collect usage information and use cookies to optimize the user experience of our services. We also use beacons in certain pages, or emails to keep track of how our platform is being used and how we can make it better. We may also use third-party analytics tools (such as Google Analytics) to measure traffic, detect trends, and ultimately improve our services. We do not allow any marketing or advertisement services to collect information about our users in any of our services. 
 If you have any questions about how we collect information through technology, please email us at contact@edis.io.
 
 ## 2. SHARING <a name="sharing"></a>
-EDIS never sells or rents information. We only share personal information in very specific scenarios:
+[Edis](http://edis.io) never sells or rents information. We only share personal information in very specific scenarios:
 
 - We may share information with other technology services if we’re using them to operate our services and only if we consider their privacy policies to be as strict or stricter than ours. So far, we only share information with services from the following companies:
   * **Amazon:** for Web Hosting, Backups, Corporate Operations (https://aws.amazon.com/privacy/)
@@ -57,7 +57,7 @@ If you have any questions about how we store and protect data, please email us a
 If you have any questions about the choices you have in regards to data, as well as our processes for deleting data, please email us at: contact@edis.io.
 
 ## 5. CHILDREN’S PRIVACY <a name="children"></a>
-EDIS only collects information from children under the age of 13 if the Client is already collecting it. 
+[Edis](http://edis.io) only collects information from children under the age of 13 if the Client is already collecting it. 
 Please email us at contact@edis.io if you we have inadvertently collected personal information of a child under 13 without the Client’s authorization and without proper parental consents so that we may delete such data as soon as possible.
 
 ## 6. LINKS <a name="links"></a>
@@ -75,7 +75,7 @@ Members of the [Student Data Privacy Consortium](https://privacy.a4l.org/)
 <img src="https://github.com/edisio/docs/blob/master/assets/img/sdpc_logo_web.png" alt="SDPC" style="height:64px;"/>
 
 ## 8. CONTACT US <a name="contact"></a>
-If you have any questions about this Privacy Policy or EDIS in general, please email us at contact@edis.io.
+If you have any questions about this Privacy Policy or [Edis](http://edis.io) in general, please email us at contact@edis.io.
 
 ## 9. CHANGES <a name="changes"></a>
 We may make minor modifications to this Privacy Policy every now and then. Should we change this document in a substantial way, we will provide a minimum of 30 days for you to review the changes and decide to opt out from our Platform before the changes take effect.
