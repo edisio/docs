@@ -10,7 +10,7 @@ Below are the sections in this document:
 4.	[Your Choices](#choices)
 5.	[Children’s Privacy](#children)
 6.	[Links](#links)
-7. [Student Privacy Pledge](#pledge)
+7. [Community](#community)
 8.	[Contact Us](#contact)
 9.	[Changes](#changes)
 
@@ -63,12 +63,13 @@ Please email us at contact@edis.io if you we have inadvertently collected person
 ## 6. LINKS <a name="links"></a>
 We are not responsible for the practices employed by websites, applications or services linked to or from our Service.
 
-## 7. STUDENT PRIVACY PLEDGE <a name="pledge"></a>
-EDIS is a proud signatory of the [Student Privacy Pledge](https://studentprivacypledge.org/) as part of our commitment to
-- complying with the highest levels of student privacy and 
-- being an active member in the student privacy discussions within the edtech community.
+## 7. COMMUNITY <a name="community"></a>
+As part of our commitment to complying with the highest levels of student privacy and being an active member in the student privacy discussions within the edtech community, we're proud:
+- signatories of the [Student Privacy Pledge](https://studentprivacypledge.org/)
+- members of the [Student Data Privacy Consortium](https://privacy.a4l.org/)
 
-<img src="http://www.edis.io/assets/images/privacy_pledge_logo.png" alt="Drawing" style="width: 100px;"/>
+<img src="https://github.com/edisio/docs/blob/master/assets/img/privacy_pledge_logo.png" alt="SPP" style="height: 64px;"/>
+<img src="https://github.com/edisio/docs/blob/master/assets/img/sdpc_logo_web.png" alt="SDPC" style="height:64px;"/>
 
 ## 8. CONTACT US <a name="contact"></a>
 If you have any questions about this Privacy Policy or EDIS in general, please email us at contact@edis.io.
