@@ -68,11 +68,11 @@ As part of our commitment to complying with the highest levels of student privac
 
 Signatories of the [Student Privacy Pledge](https://studentprivacypledge.org/), and
 
-<img src="https://github.com/edisio/docs/blob/master/assets/img/privacy_pledge_logo.png" alt="SPP" style="height: 64px;"/>
+<img src="https://edisio.github.io/docs/assets/img/privacy_pledge_logo.png" alt="SPP" style="height: 64px;"/>
 
 Members of the [Student Data Privacy Consortium](https://privacy.a4l.org/)
 
-<img src="https://github.com/edisio/docs/blob/master/assets/img/sdpc_logo_web.png" alt="SDPC" style="height:64px;"/>
+<img src="https://edisio.github.io/docs/assets/img/sdpc_logo_web.png" alt="SDPC" style="height:64px;"/>
 
 ## 8. CONTACT US <a name="contact"></a>
 If you have any questions about this Privacy Policy or [Edis](http://edis.io) in general, please email us at [contact@edis.io](mailto:contact@edis.io).
