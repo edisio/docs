@@ -66,7 +66,7 @@ We are not responsible for the practices employed by websites, applications or s
 ## 7. COMMUNITY <a name="community"></a>
 As part of our commitment to complying with the highest levels of student privacy and being an active member in the student privacy discussions within the edtech community, we're proud:
 
-Signatories of the [Student Privacy Pledge](https://studentprivacypledge.org/)
+Signatories of the [Student Privacy Pledge](https://studentprivacypledge.org/), and
 
 <img src="https://github.com/edisio/docs/blob/master/assets/img/privacy_pledge_logo.png" alt="SPP" style="height: 64px;"/>
 
