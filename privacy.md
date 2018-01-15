@@ -1,5 +1,5 @@
 # Edis Privacy Policy
-Last updated on 4-14-2017
+Last updated on 1-15-2018
 
 We (“Edis,” “we,” or “us”) know that privacy is very important to our online visitors (“Website Visitors”), our application users (“Users”), our schools and districts (“Clients”) and to students whose data we might use in behalf of our clients (“Students”). [Edis](http://edis.io) provides a data platform that collects data from other applications and services and turns it into data insights for district users to access. At all times, Clients decide which data is integrated into [Edis](http://edis.io). This privacy policy applies to both the [Edis](http://edis.io) platform (“Platform”) as well as the [Edis](http://edis.io) Website (“Website”) and covers how we go about protecting your data.
 
