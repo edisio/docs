@@ -29,8 +29,8 @@ If you have any questions about how we collect information through technology, p
 
 - We may share information with other technology services if we’re using them to operate our services and only if we consider their privacy policies to be as strict or stricter than ours. So far, we only share information with services from the following companies:
   * **Amazon:** for Web Hosting, Backups, Corporate Operations (https://aws.amazon.com/privacy/)
-  * **Google:** for Single Sign On, Analytics, Language Translations (https://www.google.com/policies/privacy/)
-  * **Microsoft:** for Single Sign On, Analytics (https://privacy.microsoft.com/en-US/)
+  * **Google/Google Apps:** for Single Sign On, Analytics, Language Translations (https://www.google.com/policies/privacy/)
+  * **Microsoft/Office 365:** for Single Sign On, Analytics (https://privacy.microsoft.com/en-US/)
 -	We may have to share data with law enforcement or other parties to comply with a court order or other legal purposes or to protect the rights, property, and safety of our users.
 
 **Successor Entities:** In the case we sell, transfer, or merge our business with another entity, we will only transfer personal data about our Clients if the mentioned entity agrees to a data privacy policy similar or stricter than ours. We will also notify you at least 30 days in advance and provide you the Privacy Policy of the new entity to give you the opportunity of opting out of the transfer and our service.
